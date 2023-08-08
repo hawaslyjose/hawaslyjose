@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jose Hawasly</h1>
-<h3 align="center">Junior Full-Stack JavaScript Developer in progress.</h3>
+<h3 align="center">Junior Full-Stack Developer.</h3>
 
 - 🌱 I’m currently learning **studying software development**
 
